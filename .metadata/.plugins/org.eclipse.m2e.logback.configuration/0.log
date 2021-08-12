@@ -1,0 +1,125 @@
+2021-08-12 07:58:20,120 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-12 08:04:37,946 [Worker-29: Creating project "artifactRestAssured"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.restAssured:artifactRestAssured:0.0.1-SNAPSHOT @ /Users/paramjeet.yadav_qua/Udemy_API_Course/artifactRestAssured/pom.xml.
+2021-08-12 08:04:38,255 [Worker-29: Creating project "artifactRestAssured"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /artifactRestAssured/src/main/java
+2021-08-12 08:04:38,257 [Worker-29: Creating project "artifactRestAssured"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /artifactRestAssured/src/main/resources
+2021-08-12 08:04:38,258 [Worker-29: Creating project "artifactRestAssured"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /artifactRestAssured/src/test/java
+2021-08-12 08:04:38,258 [Worker-29: Creating project "artifactRestAssured"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /artifactRestAssured/src/test/resources
+2021-08-12 08:04:38,725 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-12 08:04:38,731 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-12 08:04:38,734 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-12 08:04:38,735 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-12 08:05:13,602 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-12 08:05:13,604 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-12 08:05:13,605 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-12 08:05:13,606 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-12 08:05:23,295 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-12 08:05:23,295 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-12 08:05:23,296 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-12 08:05:23,297 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/artifactRestAssured/src/test/resources
+2021-08-12 08:05:30,907 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-12 08:05:30,908 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-12 08:05:30,909 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-12 08:05:30,909 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/artifactRestAssured/src/test/resources
+2021-08-12 08:05:40,846 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-12 08:05:40,847 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/artifactRestAssured/src/main/resources
+2021-08-12 08:05:40,847 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-12 08:05:40,848 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/artifactRestAssured/src/test/resources
+2021-08-12 08:05:53,823 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-12 08:05:53,823 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/artifactRestAssured/src/main/resources
+2021-08-12 08:05:53,824 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-12 08:05:53,824 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/artifactRestAssured/src/test/resources
+2021-08-12 08:06:07,280 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-12 08:06:07,281 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/artifactRestAssured/src/main/resources
+2021-08-12 08:06:07,281 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-12 08:06:07,282 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/artifactRestAssured/src/test/resources
+2021-08-12 08:06:46,560 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-12 08:06:46,561 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/artifactRestAssured/src/main/resources
+2021-08-12 08:06:46,562 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-12 08:06:46,563 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/artifactRestAssured/src/test/resources
+2021-08-12 08:08:07,025 [Worker-33: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/pom.xml
+2021-08-12 08:08:07,243 [Worker-33: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.RestAssured:udemyCourses:0.0.1-SNAPSHOT @ /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/pom.xml.
+2021-08-12 08:08:07,400 [Worker-33: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /udemyCourses/src/main/java
+2021-08-12 08:08:07,402 [Worker-33: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /udemyCourses/src/test/java
+2021-08-12 08:08:07,429 [Worker-33: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2021-08-12 08:08:07,681 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:08:07,681 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/main/resources
+2021-08-12 08:08:07,683 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:08:07,683 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/test/resources
+2021-08-12 08:08:24,269 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:08:24,269 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/main/resources
+2021-08-12 08:08:24,270 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:08:24,270 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/test/resources
+2021-08-12 08:09:02,877 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:09:02,878 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/main/resources
+2021-08-12 08:09:02,879 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:09:02,879 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/test/resources
+2021-08-12 08:09:11,036 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:09:11,036 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/main/resources
+2021-08-12 08:09:11,037 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:09:11,037 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/test/resources
+2021-08-12 08:09:24,153 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:09:24,153 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/main/resources
+2021-08-12 08:09:24,154 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:09:24,154 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/test/resources
+2021-08-12 08:09:54,073 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:09:54,074 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/main/resources
+2021-08-12 08:09:54,075 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:09:54,075 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/test/resources
+2021-08-12 08:09:55,083 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:09:55,083 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/main/resources
+2021-08-12 08:09:55,084 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:09:55,084 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/test/resources
+2021-08-12 08:10:34,445 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:10:34,445 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/main/resources
+2021-08-12 08:10:34,446 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:10:34,447 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/test/resources
+2021-08-12 08:11:10,200 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.RestAssured:udemyCourses:0.0.1-SNAPSHOT @ /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/pom.xml.
+2021-08-12 08:11:10,529 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:11:10,529 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/main/resources
+2021-08-12 08:11:10,530 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:11:10,530 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/test/resources
+2021-08-12 08:11:11,768 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:11:11,768 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/main/resources
+2021-08-12 08:11:11,768 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:11:11,769 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/test/resources
+2021-08-12 08:11:51,651 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:11:51,651 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/main/resources
+2021-08-12 08:11:51,652 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:11:51,652 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/test/resources
+2021-08-12 08:12:19,634 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:12:19,634 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/main/resources
+2021-08-12 08:12:19,635 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:12:19,636 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/test/resources
+2021-08-12 08:13:27,530 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:13:27,530 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/main/resources
+2021-08-12 08:13:27,531 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:13:27,531 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/test/resources
+2021-08-12 08:13:42,484 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:13:42,485 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/main/resources
+2021-08-12 08:13:42,485 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:13:42,486 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/test/resources
+2021-08-12 08:14:48,296 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-12 08:15:55,825 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:15:55,825 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/main/resources
+2021-08-12 08:15:55,827 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:15:55,827 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/test/resources
+2021-08-12 08:15:56,836 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:15:56,837 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/main/resources
+2021-08-12 08:15:56,838 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:15:56,838 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/test/resources
+2021-08-12 08:16:01,415 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:16:01,415 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/main/resources
+2021-08-12 08:16:01,417 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:16:01,417 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/test/resources
+2021-08-12 08:16:51,272 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:16:51,272 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/main/resources
+2021-08-12 08:16:51,273 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:16:51,273 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/test/resources
+2021-08-12 08:17:05,425 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:17:05,426 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/main/resources
+2021-08-12 08:17:05,426 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:17:05,427 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/test/resources
+2021-08-12 08:17:15,377 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:17:15,377 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/main/resources
+2021-08-12 08:17:15,378 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 08:17:15,378 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paramjeet.yadav_qua/Udemy_API_Course/udemyCourses/src/test/resources
