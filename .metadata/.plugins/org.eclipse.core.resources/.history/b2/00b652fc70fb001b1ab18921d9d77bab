@@ -1,0 +1,24 @@
+package problemSolving;
+
+public class pswdValidator {
+
+	public static boolean passwordCheck(String pswd) {
+		
+		String str = pswd;
+		
+		if(str.length() > 7)
+			
+			
+		
+		
+		else return false;
+	}
+	
+	
+	
+	public static void main(String[] args) {
+		
+		System.out.println(passwordCheck("abcdefgh"));
+	}
+
+}
